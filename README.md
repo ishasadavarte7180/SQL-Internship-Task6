@@ -31,22 +31,22 @@ We have four tables:
 ## 🔍 Queries Included
 
 1. **Scalar Subquery** – Average product price  
-   ![Query 1](./Screenshots/query1.png)
+   ![Query 1](Screenshots/query1.PNG)
 
 2. **Correlated Subquery** – Orders per customer  
-   ![Query 2](./Screenshots/query2.png)
+   ![Query 2](Screenshots/query2.PNG)
 
 3. **Subquery with IN** – Customers who bought Electronics  
-   ![Query 3](./Screenshots/query3.png)
+   ![Query 3](Screenshots/query3.PNG)
 
 4. **Subquery with EXISTS** – Customers with orders > 1000  
-   ![Query 4](./Screenshots/query4.png)
+   ![Query 4]Screenshots/query4.PNG)
 
 5. **Derived Table in FROM** – Top customers by spend  
-   ![Query 5](./Screenshots/query5.png)
+   ![Query 5](Screenshots/query5.PNG)
 
 6. **Subquery comparing product price with category average**  
-   ![Query 6](./screenshots/query6.png)
+   ![Query 6]Screenshots/query6.PNG)
 
 ---
 
